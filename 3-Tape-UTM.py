@@ -1,3 +1,4 @@
+#Run script
 class ThreeTapeTuringMachine:
     def __init__(self, encoded_tm, input_string):
         # Validate encoded TM format
