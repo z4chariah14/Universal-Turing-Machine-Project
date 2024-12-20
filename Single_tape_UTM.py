@@ -1,3 +1,4 @@
+#Run script
 class TuringMachine:
     def __init__(self, states, tape, start_state, transitions, blank_symbol='_'):
         self.states = states
