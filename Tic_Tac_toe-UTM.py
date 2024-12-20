@@ -1,3 +1,4 @@
+#Run script
 class TuringMachine3Tape:
     def __init__(self):
         # Initialize tapes
